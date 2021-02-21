@@ -1,0 +1,29 @@
+body{
+	background-color: #708090;
+}
+#box{
+	background-color: #FFFF00;
+    padding: 10px; /* top -> right -> bottom -> left */
+    border: 3px solid;
+    margin:40px;
+    width: 300px;
+    height:50px;
+    overflow: auto;
+    margin-top: 50px;
+}
+#content{
+	background-color: #20B2AA;
+}
+h1{
+	margin-bottom: 30px;
+}
+*{
+	box-sizing: border-box;
+}
+p{
+	width: 500px;
+	height: 500px;
+	background-color: #A52A2A;
+	background: url("freedom.jpg");
+	background-position: bottom-right;
+}

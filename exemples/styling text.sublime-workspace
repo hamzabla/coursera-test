@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"part",
+				"partie_terminee"
+			],
+			[
+				"nb",
+				"nb_noir"
+			],
+			[
+				"top",
+				"top10scores"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"le",
+				"lefi"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"dem",
+				"demarerLeJeuVsMachine"
+			],
+			[
+				"cou",
+				"coup_valide"
+			],
+			[
+				"V",
+				"VALABLE"
+			],
+			[
+				"jou",
+				"joueur"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"fichier",
+				"FichierSignUp"
+			],
+			[
+				"nom",
+				"nomF"
+			],
+			[
+				"rep",
+				"rep1"
+			],
+			[
+				"charge",
+				"ChargePartieSauvgarder"
+			],
+			[
+				"nb_",
+				"nb_blanc"
+			],
+			[
+				"fichi",
+				"FichierLogin"
+			],
+			[
+				"file",
+				"filecoups"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"re",
+				"recommencer"
+			],
+			[
+				"choisir",
+				"choisir_coup"
+			],
+			[
+				"co",
+				"commencer"
+			],
+			[
+				"a",
+				"Arbre"
+			],
+			[
+				"adh",
+				"adherents"
+			],
+			[
+				"creer",
+				"creerAdherent"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"in",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/coursera-test/exemples/floating.html",
+		"/C/Users/user/coursera-test/exemples/styling_text.css",
+		"/C/Users/user/coursera-test/exemples/styling text.html",
+		"/C/Users/user/coursera-test/exemples/style.css",
+		"/C/Users/user/coursera-test/exemples/style placement.html",
+		"/C/Users/user/coursera-test/exemples/pseudo class selector.html",
+		"/C/Users/user/coursera-test/exemples/simple_selector.html",
+		"/C/Users/user/coursera-test/exemples/images.html",
+		"/C/Users/user/coursera-test/site/fullstack course.html",
+		"/C/Users/user/coursera-test/site/indexe.html",
+		"/C/Users/user/coursera-test/exemples/links in the same page.html",
+		"/C/Users/user/coursera-test/exemples/another exmp.html",
+		"/C/Users/user/coursera-test/exemples/exmp 3.html",
+		"/C/Users/user/coursera-test/exemples/creating links.html",
+		"/C/Users/user/coursera-test/exemples/external links.html",
+		"/C/main.c",
+		"/C/Users/user/Desktop/index.html",
+		"/C/Users/user/Desktop/avancement projet c/nouhayla score.c",
+		"/C/Users/user/Desktop/AVANCEMENT3.55555/main.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime88888.c",
+		"/C/Users/user/Downloads/minmax.c",
+		"/C/Users/user/AppData/Local/Temp/Temp1_BENHAMMOU_BESSA.zip/projetC_version final/interface_SDL/sdl.c",
+		"/C/Users/user/Desktop/avancement projet c/minmaxTry.c",
+		"/C/Users/user/Desktop/TP3ARBRE.c",
+		"/C/Users/user/Desktop/avancement projet c/avancement1111111.c",
+		"/C/Users/user/Desktop/SDL final version/sdl.c",
+		"/C/Users/user/Desktop/SDL final version/sdlfunctions.h",
+		"/C/Users/user/Desktop/SDL final version/sdlheaders.h",
+		"/C/Users/user/AppData/Local/Temp/Temp1_BENHAMMOU_BESSA.zip/projetC_version final/interface_SDL/SDL_code.c",
+		"/C/Users/user/Desktop/projetC_version final/ProjetC_Othello_final version/main.c",
+		"/C/Users/user/AppData/Local/Temp/Temp4_ProjetC_Othello.zip/ProjetC_Othello/main.c",
+		"/C/Users/user/Desktop/interface/interface/main.c",
+		"/C/Users/user/Desktop/avancement projet c/avancement100000.c",
+		"/C/Users/user/AppData/Local/Temp/Temp2_ProjetC_Othello.zip/ProjetC_Othello/sauvegarde.c",
+		"/C/Users/user/Desktop/avancement projet c/avancement99999.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/ALPHA.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/evaluation.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime7777777.c",
+		"/C/Users/user/Desktop/avancement projet c/trytoavancer7.c",
+		"/C/Users/user/Downloads/hamza.c",
+		"/C/Users/user/Desktop/avancement projet c/avancement66666.c",
+		"/C/Users/user/Desktop/avancement projet c/trytoavancer6666.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime5555.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/optimisation.c",
+		"/C/Users/user/Desktop/Projet_C_Othello/programme 1vs1/programme 1vs1.layout",
+		"/C/Users/user/Desktop/Projet_C_Othello/programme 1vs1/main.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime3.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime4.c",
+		"/C/Users/user/Desktop/avancement projet c/avancementUltime56666.c",
+		"/C/Users/user/Desktop/fff/main.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 avancement 4.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/sauvegarde.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 avancement 3.1.c",
+		"/C/Users/user/Downloads/jihad1.c",
+		"/C/Users/user/Desktop/finKaynLmouchkil.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 avancement 3.2c.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 avancement 3.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/representation.c",
+		"/C/Users/user/Desktop/projetOthelloTERMINAL/main.c",
+		"/C/Users/user/Downloads/main.c",
+		"/C/Users/user/Desktop/avancement3.3/main.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 sur sublime avancement.c",
+		"/C/Users/user/Desktop/learnFILE/test avancement3.2/main.c",
+		"/C/Users/user/Desktop/Projet_C_Othello/programme 1vs1/main2/type.c",
+		"/C/Users/user/Desktop/ENSIAS/PROJET C/doc interessant/programme 1vs1/main.c",
+		"/C/Users/user/Desktop/avancement projet c/1vs1 avancement 2.c",
+		"/C/Users/user/Downloads/1vs1 avancement 3.2c.c",
+		"/C/Users/user/Desktop/1vs1 avancement 3.c",
+		"/C/Users/user/Desktop/nouhayla score.c",
+		"/C/Users/user/Desktop/learnFILE/lesson1/main.c",
+		"/C/Users/user/Desktop/1vs1 sur sublime avancement.c",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/user/Desktop/ENSIAS/structure de donnnees/tp1.c",
+		"/C/Users/user/Desktop/ENSIAS/structure de donnnees/TP1SDD.c",
+		"/C/Users/user/Downloads/codeblocks-20.03mingw-32bit-setup.exe"
+	],
+	"find":
+	{
+		"height": 42.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styling text.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
